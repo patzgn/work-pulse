@@ -1,6 +1,6 @@
 export const CONFIG = {
     blocksTotal: 8,
-    workMinutes: 0.1,
-    shortBreakMinutes: 0.1,
-    longBreakMinutes: 20,
+    workMinutes: 55,
+    shortBreakMinutes: 5,
+    longBreakMinutes: 15,
 };
